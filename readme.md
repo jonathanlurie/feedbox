@@ -17,3 +17,5 @@ var fbck = new feedbox.Feedbox( "your@email.com" );
 ```
 
 Of course, `your@email.com` has to be replace by the email you want to receive emails at.
+
+![](images/feedbox.png)
